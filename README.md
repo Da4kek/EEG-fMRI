@@ -2,7 +2,7 @@
 our research proposes a method that leverages multimodal neural data integrated with a visual semantic space to create a cognitive basis model  mapping the sequence of interactions and transformations using EEG–fMRI data  .
 OUR ROADMAP:
 ### 1. Data Acquisition and Preprocessing
-1. **Download Dataset**: Obtain EEG and fMRI data from the specified dataset: [NITRC INDI Dataset](https://fcon_1000.projects.nitrc.org/indi/retro/nat_view.html).
+1. **Download Dataset**: Obtain EEG and fMRI data from the specified dataset: [NITRC INDI Dataset](https://fcon_1000.projects.nitrc.org/indi/retro/nat_view.html). whitepaper: (https://www.nature.com/articles/s41597-023-02458-8)
 2. **Preprocess Data**:
    - **EEG Data**:
      - Perform standard preprocessing steps (e.g., filtering, artifact removal).
