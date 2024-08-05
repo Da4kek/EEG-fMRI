@@ -10,7 +10,7 @@ OUR ROADMAP:
  - **fMRI Data**:
      - Preprocess fMRI images (e.g., slice timing correction, motion correction, normalization, smoothing).
 3. **Correlate Data**:
-   - Correlate EEG source localization maps with EEG channels.(this might seem redundant with the fmri but bold data only corrsponds to high levels of activity )
+   - Correlate EEG source localization maps with EEG channels.(this might seem redundant with the fmri but bold data only corresponds to high levels of activity sometimes  )
    - Correlate EEG data with corresponding fMRI voxel data.
 4. **Train First VAE (Unsupervised)**:
    - Input: Preprocessed EEG and fMRI data.(this is to correlat temporal and spatial representations )
