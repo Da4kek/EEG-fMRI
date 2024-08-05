@@ -25,7 +25,7 @@ OUR ROADMAP:
    - Look for features in the data that change probabilities post-masking in both VAEs.
    - Annotate the masked timestamps/voxels with the features that show significant probability changes in both VAEs.(in vae 1 it would be the voxels that changed probability due to the eeg 
      masking and eeg timestamps that changed probabilities for voxel ).
-     8. **Post-Processing**:
+8. **Post-Processing**:
    - Convert the identified features and their annotations into a structured format.
    - Organize the results into a comprehensive report or dataset for further analysis or interpretation.
 
