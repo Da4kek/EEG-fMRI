@@ -13,7 +13,7 @@ OUR ROADMAP:
    - Correlate EEG source localization maps with EEG channels.(this might seem redundant with the fmri but bold data only corresponds to high levels of activity sometimes  )
    - Correlate EEG data with corresponding fMRI voxel data.
 4. **Train First VAE (Unsupervised)**:
-   - Input: Preprocessed EEG and fMRI data.(this is to correlat temporal and spatial representations )
+   - Input: Preprocessed EEG and fMRI data.(this is to correlate temporal and spatial representations )
    - Task: Reconstruct its input.
 5. **Train Second VAE**:
    - Input: Preprocessed EEG and fMRI data.
